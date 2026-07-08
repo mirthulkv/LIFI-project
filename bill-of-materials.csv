@@ -1,0 +1,12 @@
+Item No,Component,Quantity,Section,Function
+1,MAX4466 Microphone Amplifier Module,1,Transmitter,Captures ambient audio and converts to electrical signal
+2,PAM8403 Class-D Audio Amplifier Module,2,Transmitter + Receiver,Amplifies audio signal (1 per section)
+3,HW-493 Laser Diode Module,1,Transmitter,Intensity-modulates laser beam with audio
+4,Solar Panel (Photovoltaic Sensor),1,Receiver,Detects laser beam and demodulates to electrical signal
+5,"8 Ohm, 15W Speaker",1,Receiver,Converts recovered electrical signal to sound
+6,9V Battery,2,Transmitter + Receiver,Primary power source (1 per section)
+7,LM7805 Voltage Regulator,2,Transmitter + Receiver,Regulates 9V down to stable 5V (1 per section)
+8,100k Potentiometer,1,Receiver,Manual volume control
+9,Breadboard,2,Transmitter + Receiver,Prototyping platform
+10,Jumper Wires,As needed,Transmitter + Receiver,Circuit connections
+11,Crocodile Clips,2,Receiver,Solar panel lead connections

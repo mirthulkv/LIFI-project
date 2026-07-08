@@ -2,9 +2,6 @@
 
 > A low-cost, laser-based optical wireless communication system that transmits live audio using **Light Fidelity (Li-Fi)** principles — modulating a laser beam with sound and demodulating it at the receiver using a solar panel.
 
-![Status](https://img.shields.io/badge/status-completed-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
-![Course](https://img.shields.io/badge/course-BECE304L%20Analog%20Communication%20Systems-orange)
 
 ---
 
@@ -27,7 +24,7 @@
 - [Safety Notes](#-safety-notes)
 - [Team](#-team)
 - [References](#-references)
-- [License](#-license)
+
 
 ---
 

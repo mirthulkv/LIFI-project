@@ -7,22 +7,22 @@
 
 ## 📖 Table of Contents
 
-- [Overview](#-overview))
-- [Demo](#demo)
-- [How It Works](#how-it-works)
-- [System Architecture](#system-architecture)
-- [Components (Bill of Materials)](#components-bill-of-materials)
-- [Circuit Diagrams](#circuit-diagrams)
-- [Repository Structure](#repository-structure)
-- [Build Instructions](#build-instructions)
-- [Testing & Calibration](#testing--calibration)
-- [Results](#results)
-- [Li-Fi vs Wi-Fi](#li-fi-vs-wi-fi)
-- [Advantages & Disadvantages](#advantages--disadvantages)
-- [Applications](#applications)
-- [Future Scope](#future-scope)
-- [Safety Notes](#safety-notes)
-- [References](#references)
+- [Overview](#-overview)
+- [Demo](#-demo)
+- [How It Works](#-how-it-works)
+- [System Architecture](#-system-architecture)
+- [Components (Bill of Materials)](#-components-bill-of-materials)
+- [Circuit Diagrams](#-circuit-diagrams)
+- [Repository Structure](#-repository-structure)
+- [Build Instructions](#-build-instructions)
+- [Testing & Calibration](#-testing--calibration)
+- [Results](#-results)
+- [Li-Fi vs Wi-Fi](#-li-fi-vs-wi-fi)
+- [Advantages & Disadvantages](#-advantages--disadvantages)
+- [Applications](#-applications)
+- [Future Scope](#-future-scope)
+- [Safety Notes](#-safety-notes)
+- [References](#-references)
 
 
 ---

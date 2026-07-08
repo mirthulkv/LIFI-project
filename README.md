@@ -123,7 +123,6 @@ See [`docs/circuit-diagrams.md`](docs/circuit-diagrams.md) for pin-level wiring 
 ```
 LiFi-Audio-Transmission/
 ├── README.md                     ← You are here
-├── LICENSE
 ├── .gitignore
 ├── docs/
 │   ├── methodology.md            ← Full build methodology (Tx/Rx design, testing, safety)

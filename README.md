@@ -7,29 +7,29 @@
 
 ## 📖 Table of Contents
 
-- [Overview](#-overview)
-- [Demo](#-demo)
-- [How It Works](#-how-it-works)
-- [System Architecture](#-system-architecture)
-- [Components (Bill of Materials)](#-components-bill-of-materials)
-- [Circuit Diagrams](#-circuit-diagrams)
-- [Repository Structure](#-repository-structure)
-- [Build Instructions](#-build-instructions)
-- [Testing & Calibration](#-testing--calibration)
-- [Results](#-results)
-- [Li-Fi vs Wi-Fi](#-li-fi-vs-wi-fi)
-- [Advantages & Disadvantages](#-advantages--disadvantages)
-- [Applications](#-applications)
-- [Future Scope](#-future-scope)
-- [Safety Notes](#-safety-notes)
-- [References](#-references)
+- [Overview](#overview)
+- [Demo](#demo)
+- [How It Works](#how-it-works)
+- [System Architecture](#system-architecture)
+- [Components (Bill of Materials)](#components-bill-of-materials)
+- [Circuit Diagrams](#circuit-diagrams)
+- [Repository Structure](#repository-structure)
+- [Build Instructions](#build-instructions)
+- [Testing & Calibration](#testing--calibration)
+- [Results](#results)
+- [Li-Fi vs Wi-Fi](#li-fi-vs-wi-fi)
+- [Advantages & Disadvantages](#advantages--disadvantages)
+- [Applications](#applications)
+- [Future Scope](#future-scope)
+- [Safety Notes](#safety-notes)
+- [References](#references)
 
 
 ---
 
 ## 🔍 Overview
 
-This project demonstrates a simplified **Li-Fi (Light Fidelity)**–based audio transmission system built using a **laser diode** and a **solar panel**, developed as part of the *BECE304L – Analog Communication Systems* course (Winter Semester 2024–25) at **Vellore Institute of Technology (VIT)**.
+This project demonstrates a simplified **Li-Fi (Light Fidelity)**–based audio transmission system built using a **laser diode** and a **solar panel**.
 
 Live audio is captured by a microphone, amplified, and used to modulate the **intensity of a laser beam**. This modulated light travels through free space to a receiver, where a small **solar panel** acts as an unconventional photodetector, converting the light intensity variations back into an electrical audio signal — which is then amplified and played through a speaker.
 

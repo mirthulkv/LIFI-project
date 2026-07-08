@@ -22,7 +22,6 @@
 - [Applications](#-applications)
 - [Future Scope](#-future-scope)
 - [Safety Notes](#-safety-notes)
-- [Team](#-team)
 - [References](#-references)
 
 

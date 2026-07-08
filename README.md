@@ -7,7 +7,7 @@
 
 ## 📖 Table of Contents
 
-- [Overview](#overview)
+- [Overview](#-overview))
 - [Demo](#demo)
 - [How It Works](#how-it-works)
 - [System Architecture](#system-architecture)

@@ -133,8 +133,7 @@ LiFi-Audio-Transmission/
 └── images/
     ├── transmitter-circuit.svg   ← Recreated Fig 1 (Transmitter circuit diagram)
     ├── receiver-circuit.svg      ← Recreated Fig 2 (Receiver circuit diagram)
-    ├── transmitter-photo.jpg     ← 📷 Add your own hardware photo here
-    └── receiver-photo.jpg        ← 📷 Add your own hardware photo here
+    
 ```
 
 ---

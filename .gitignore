@@ -1,0 +1,15 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+*.swp
+
+# Large raw media (keep only optimized versions in images/)
+*.mov
+*.raw
+
+# Temp files
+*.tmp
+*.bak

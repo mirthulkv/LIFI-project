@@ -17,7 +17,7 @@
 - [Build Instructions](#-build-instructions)
 - [Testing & Calibration](#-testing--calibration)
 - [Results](#-results)
-- [Li-Fi vs Wi-Fi](#https://github.com/mirthulkv/LIFI-project/blob/main/README.md#%EF%B8%8F-li-fi-vs-wi-fi)
+- [Li-Fi vs Wi-Fi](#-li-fi-vs-wi-fi)
 - [Advantages & Disadvantages](#-advantages--disadvantages)
 - [Applications](#-applications)
 - [Future Scope](#-future-scope)
